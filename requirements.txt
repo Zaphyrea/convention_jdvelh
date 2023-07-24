@@ -1,0 +1,2 @@
+hugchat==0.0.8 
+mysql-connector-python==8.1.0 
